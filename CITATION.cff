@@ -1,0 +1,55 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: HUMS Responsiveness
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Elizabeth
+    family-names: Goodwin
+    email: E.Goodwin@exeter.ac.uk
+    affiliation: 'Health Economics Group, University of Exeter'
+    orcid: 'https://orcid.org/0000-0003-1351-9170'
+  - given-names: Amy
+    family-names: Heather
+    email: a.heather2@exeter.ac.uk
+    affiliation: >-
+      Peninsula Collaboration for Health Operational
+      Research and Data Science, University of Exeter
+    orcid: 'https://orcid.org/0000-0002-6596-3479'
+  - given-names: Colin
+    family-names: Green
+    orcid: 'https://orcid.org/0000-0001-6140-1287'
+  - given-names: Nia
+    family-names: Morrish
+    orcid: 'https://orcid.org/0000-0002-7206-4957'
+  - given-names: Jenny
+    family-names: Freeman
+  - given-names: Kate
+    family-names: Boddy
+    orcid: 'https://orcid.org/0000-0001-9135-5488'
+  - given-names: Sarah
+    family-names: Thomas
+  - given-names: Jeremy
+    family-names: Chataway
+  - given-names: Rod
+    family-names: Middleton
+    orcid: 'https://orcid.org/0000-0002-2130-4420'
+  - given-names: Annie
+    family-names: Hawton
+    orcid: 'https://orcid.org/0000-0002-1336-5899'
+    email: A.Hawton@exeter.ac.uk
+    affiliation: 'Health Economics Group, University of Exeter'
+repository-code: 'https://github.com/amyheather/hums_responsiveness'
+abstract: >-
+  Repository with Stata do-files from the analysis performed
+  for the paper: Comparative responsiveness of
+  preference-based health-related quality of life, social
+  care and wellbeing, condition-specific and generic
+  measures in the context of multiple sclerosis
+license: MIT
+version: v0.1.0
+date-released: '2024-09-25'
