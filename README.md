@@ -12,11 +12,9 @@
     <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"/></a>
 </p>
 
-<!--TODO: Add releases and DOI badges once created-->
+<mark>TODO: Add releases and DOI badges once/if created</mark>
 
-<!--TODO: Check what HUMS stood for, maybe add as tagline, as I've forgotten-->
-
-<!--TODO: Add any missing details to CITATION.cff-->
+<mark>TODO: Check what HUMS stood for, maybe add as tagline, as I've forgotten</mark>
 
 This repository contains Stata do-files from the analysis performed for:
 
@@ -28,7 +26,9 @@ This is a draft paper currently being submit to journal/s to consider for public
 
 ## Context
 
-The provided do-files analyse data from the **UK MS Register**. Prior to analysis, the data underwent pre-processing including:
+The provided do-files to analyse data from the **UK MS Register**. Analysis was performed in Stata <mark>TODO: add version if known</mark>, which is a paid software so a Stata license would be required to run these files.
+
+Prior to analysis, the data underwent pre-processing including:
 
 * <mark>TODO: check what steps were in prior do-files, or include them</mark>
 
