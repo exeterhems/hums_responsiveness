@@ -12,6 +12,8 @@
     <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"/></a>
 </p>
 
+<mark>TODO: Move to organisation (need to confirm if that would be alright, appropriate name, etc)</mark>
+
 <mark>TODO: Add releases and DOI badges once/if created</mark>
 
 <mark>TODO: Check what HUMS stood for, maybe add as tagline, as I've forgotten</mark>
