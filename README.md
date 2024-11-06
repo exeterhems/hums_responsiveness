@@ -2,7 +2,7 @@
   <br>
     <a href="https://medicine.exeter.ac.uk/health-community/research/healtheconomics/"><img src="https://raw.githubusercontent.com/amyheather/hums_responsiveness/main/images/exeter_economics.png" alt="Health Economics Group, University of Exeter"></a>
   <br>
-  HUMS Responsiveness Paper
+  Health Utilities in MS (HUMS) Responsiveness Paper
   <br>
 </h1>
 
@@ -12,11 +12,7 @@
     <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"/></a>
 </p>
 
-<mark>TODO: Move to organisation (need to confirm if that would be alright, appropriate name, etc)</mark>
-
-<mark>TODO: Add releases and DOI badges once/if created</mark>
-
-<mark>TODO: Check what HUMS stood for, maybe add as tagline, as I've forgotten</mark>
+<mark>TODO: Update CITATION.CFF, created CHANGELOG and archive on Zenodo. THen add releases and DOI badges to README</mark>
 
 This repository contains Stata do-files from the analysis performed for:
 
@@ -24,11 +20,11 @@ This repository contains Stata do-files from the analysis performed for:
 > 
 > Elizabeth Goodwin, Amy Heather, Colin Green, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton, Annie Hawton
 
-This is a draft paper currently being submit to journal/s to consider for publication. <mark>TODO: Add link to pre-print if allowed/decided to do one</mark>.
+This is a draft paper currently being submit to journal/s to consider for publication.
 
 ## Context
 
-The provided do-files to analyse data from the **UK MS Register**. Analysis was performed in Stata <mark>TODO: add version if known</mark>, which is a paid software so a Stata license would be required to run these files.
+The provided do-files to analyse data from the **UK MS Register**. Analysis was performed in Stata <mark>TODO: add version</mark>, which is a paid software so a Stata license would be required to run these files.
 
 Prior to analysis, the data underwent pre-processing including:
 
@@ -62,7 +58,7 @@ The analysis is described in detail in the publication. However, as a brief reca
 
 ## 🏛️ Archived repository
 
-To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: <mark>TODO: Confirm if ok to archive and add link</mark>
+To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: <mark>TODO: Add link once archived</mark>
 
 ## 📝 Citation
 
