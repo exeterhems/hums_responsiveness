@@ -18,7 +18,7 @@ This repository contains Stata do-files from the analysis performed for:
 
 > **Comparative responsiveness of preference-based health-related quality of life, social care and wellbeing, condition-specific and generic measures in the context of multiple sclerosis**
 > 
-> Elizabeth Goodwin, Amy Heather, Colin Green, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton, Annie Hawton
+> Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton, Annie Hawton
 
 This is a draft paper currently being submit to journal/s to consider for publication.
 
@@ -45,7 +45,7 @@ The analysis is described in detail in the publication. However, as a brief reca
   * Additional processing (e.g. standardised PBMs and PROMs, recoding to set base case)
   * Hausman test and Breusch-Pagan Lagrange multiplier (LM) to determine whether random effects is appropriate
   * Pooled OLS regression on PBMs with continuous or categorical PROMs and with IEQ
-  * Check regression assumptions (no outliers, normality of residuals, homoscedasticity of residuals, no multicolinearity, linear relationships)
+  * Check regression assumptions (no outliers, normality of residuals, homoscedasticity of residuals, no multiearity, linear relationships)
 * `15 Longitudinal analysis all phases output tables.do`
   * Outputs results into Excel tables (instead of copy+paste of tables from Stata)
 * `16 Longitudinal analysis all phases bonferroni and ranking.do`
@@ -73,7 +73,6 @@ The author ORCID IDs for this publication (where available) are:
 
 [![ORCID: Goodwin](https://img.shields.io/badge/Elizabeth_Goodwin-0000--0003--1351--9170-brightgreen)](https://orcid.org/0000-0003-1351-9170)
 [![ORCID: Heather](https://img.shields.io/badge/Amy_Heather-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)
-[![ORCID: Green](https://img.shields.io/badge/Colin_Green-0000--0001--6140--1287-brightgreen)](https://orcid.org/0000-0001-6140-1287)
 [![ORCID: Morrish](https://img.shields.io/badge/Nia_Morrish-0000--0002--7206--4957-brightgreen)](https://orcid.org/0000-0002-7206-4957)
 [![ORCID: Boddy](https://img.shields.io/badge/Kate_Boddy-0000--0001--9135--5488-brightgreen)](https://orcid.org/0000-0001-9135-5488)
 [![ORCID: Middleton](https://img.shields.io/badge/Rod_Middleton-0000--0002--2130--4420-brightgreen)](https://orcid.org/0000-0002-2130-4420)
