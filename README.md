@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-    <a href="https://medicine.exeter.ac.uk/health-community/research/healtheconomics/"><img src="https://raw.githubusercontent.com/amyheather/hums_responsiveness/main/images/exeter_economics.png" alt="Health Economics Group, University of Exeter"></a>
+    <a href="https://medicine.exeter.ac.uk/health-community/research/healtheconomics/"><img src="https://raw.githubusercontent.com/exeterhems/hums_responsiveness/main/images/exeter_economics.png" alt="Health Economics Group, University of Exeter"></a>
   <br>
   Health Utilities in MS (HUMS) Responsiveness Paper
   <br>
@@ -8,8 +8,9 @@
 
 <p align="center">
     <a target="_blank" href="https://www.stata.com/"><img src="https://img.shields.io/badge/software-Stata_v17-239120" alt="Software"/></a>
-    <a href="#"><img src="https://img.shields.io/github/last-commit/amyheather/hums_responsiveness" alt="GitHub last commit" /></a>
-    <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightblue.svg" alt="MIT licence"/></a>
+    <a href="#"><img src="https://img.shields.io/github/last-commit/exeterhems/hums_responsiveness" alt="GitHub last commit" /></a>
+    <a target="_blank" href="https://github.com/exeterhems/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightblue.svg" alt="MIT licence"/></a>
+    <a href="#"><img src="https://img.shields.io/github/v/release/exeterhems/hums_responsiveness" alt="GitHub last release" /></a>
     <a target="_blank" href="https://doi.org/10.5281/zenodo.15095009"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15095009.svg" alt="DOI"/></a>
 </p>
 
@@ -110,7 +111,7 @@ Please cite the archived repository on Zenodo:
 
 You can also cite this GitHub repository:
 
-> Goodwin, E., Heather, A., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2025). HUMS Responsiveness. https://github.com/amyheather/hums_responsiveness.
+> Goodwin, E., Heather, A., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2025). HUMS Responsiveness. https://github.com/exeterhems/hums_responsiveness.
 
 The author ORCID IDs for this publication are:
 

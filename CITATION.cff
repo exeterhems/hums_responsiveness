@@ -40,7 +40,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-1336-5899'
     email: A.Hawton@exeter.ac.uk
     affiliation: 'Health Economics Group, University of Exeter'
-repository-code: 'https://github.com/amyheather/hums_responsiveness'
+repository-code: 'https://github.com/exeterhems/hums_responsiveness'
 abstract: >-
   Repository with Stata do-files from the analysis performed
   for the paper: Comparative responsiveness of
