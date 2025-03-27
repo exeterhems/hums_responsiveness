@@ -9,7 +9,8 @@
 <p align="center">
     <a target="_blank" href="https://www.stata.com/"><img src="https://img.shields.io/badge/software-Stata_v17-239120" alt="Software"/></a>
     <a href="#"><img src="https://img.shields.io/github/last-commit/amyheather/hums_responsiveness" alt="GitHub last commit" /></a>
-    <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"/></a>
+    <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-lightblue.svg" alt="MIT licence"/></a>
+    <a target="_blank" href="https://doi.org/10.5281/zenodo.15095009"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.15095009.svg" alt="DOI"/></a>
 </p>
 
 This repository contains Stata do-files from the analysis performed for:
@@ -97,15 +98,19 @@ The analysis is described in detail in the publication. However, as a brief reca
 
 ## 🏛️ Archived repository
 
-To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: TBC.
+To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: https://doi.org/10.5281/zenodo.15095009.
 
 <br>
 
 ## 📝 Citation
 
-To cite this repository:
+Please cite the archived repository on Zenodo:
 
-> Goodwin, E., Heather, A., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2024). HUMS Responsiveness (Version v1.0.0) [Computer software]. https://github.com/amyheather/hums_responsiveness
+> Goodwin, E., Heather, A., Green, C., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2025). HUMS Responsiveness. Zenodo. https://doi.org/10.5281/zenodo.15095009.
+
+You can also cite this GitHub repository:
+
+> Goodwin, E., Heather, A., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2025). HUMS Responsiveness. https://github.com/amyheather/hums_responsiveness.
 
 The author ORCID IDs for this publication are:
 
@@ -118,6 +123,8 @@ The author ORCID IDs for this publication are:
 * [![ORCID: Chataway](https://img.shields.io/badge/Jeremy_Chataway-0000--0001--7286--6901-brightgreen)](https://orcid.org/0000-0001-7286-6901)
 * [![ORCID: Middleton](https://img.shields.io/badge/Rod_Middleton-0000--0002--2130--4420-brightgreen)](https://orcid.org/0000-0002-2130-4420)
 * [![ORCID: Hawton](https://img.shields.io/badge/Annie_Hawton-0000--0002--1336--5899-brightgreen)](https://orcid.org/0000-0002-1336-5899)
+
+<br>
 
 ## 📜 Licence
 
