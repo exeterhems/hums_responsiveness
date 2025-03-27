@@ -11,14 +11,9 @@ authors:
   - given-names: Elizabeth
     family-names: Goodwin
     email: E.Goodwin@exeter.ac.uk
-    affiliation: 'Health Economics Group, University of Exeter'
     orcid: 'https://orcid.org/0000-0003-1351-9170'
   - given-names: Amy
     family-names: Heather
-    email: a.heather2@exeter.ac.uk
-    affiliation: >-
-      Peninsula Collaboration for Health Operational
-      Research and Data Science, University of Exeter
     orcid: 'https://orcid.org/0000-0002-6596-3479'
   - given-names: Colin
     family-names: Green
@@ -28,6 +23,7 @@ authors:
     orcid: 'https://orcid.org/0000-0002-7206-4957'
   - given-names: Jenny
     family-names: Freeman
+    orcid: 'https://orcid.org/0000-0002-4072-9758'
   - given-names: Kate
     family-names: Boddy
     orcid: 'https://orcid.org/0000-0001-9135-5488'
@@ -35,6 +31,7 @@ authors:
     family-names: Thomas
   - given-names: Jeremy
     family-names: Chataway
+    orcid: 'https://orcid.org/0000-0001-7286-6901'
   - given-names: Rod
     family-names: Middleton
     orcid: 'https://orcid.org/0000-0002-2130-4420'
@@ -51,5 +48,5 @@ abstract: >-
   care and wellbeing, condition-specific and generic
   measures in the context of multiple sclerosis
 license: MIT
-version: v0.1.0
-date-released: '2024-09-25'
+version: v1.0.0
+date-released: '2025-03-27'
