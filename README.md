@@ -7,12 +7,10 @@
 </h1>
 
 <p align="center">
-    <a target="_blank" href="https://www.stata.com/"><img src="https://img.shields.io/badge/software-Stata-239120" alt="Software"/></a>
+    <a target="_blank" href="https://www.stata.com/"><img src="https://img.shields.io/badge/software-Stata_v17-239120" alt="Software"/></a>
     <a href="#"><img src="https://img.shields.io/github/last-commit/amyheather/hums_responsiveness" alt="GitHub last commit" /></a>
     <a target="_blank" href="https://github.com/amyheather/hums_responsiveness/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT license"/></a>
 </p>
-
-<mark>TODO: Update CITATION.CFF, created CHANGELOG and archive on Zenodo. THen add releases and DOI badges to README</mark>
 
 This repository contains Stata do-files from the analysis performed for:
 
@@ -22,15 +20,54 @@ This repository contains Stata do-files from the analysis performed for:
 
 This is a draft paper currently being submit to journal/s to consider for publication.
 
-## Context
+<br>
 
-The provided do-files to analyse data from the **UK MS Register**. Analysis was performed in Stata <mark>TODO: add version</mark>, which is a paid software so a Stata license would be required to run these files.
+## ⚙️ Pre-processing
 
-Prior to analysis, the data underwent pre-processing including:
+The provided do-files analyse data from the **UK MS Register**. Analysis was performed in **Stata version 17** which is a paid software, so a Stata license would be required to run these files.
 
-* <mark>TODO: check what steps were in prior do-files, or include them</mark>
+Prior to analysis, the data underwent pre-processing in do-files 1 to 12 (not provided). These contain basic syntax:
 
-After this pre-processing, the dataset format was <mark>TODO: describe the data e.g. patient-level, what sort of columns</mark>
+* To ensure that responses were correctly coded.
+* To calculate total scale/subscale scores for PROMs and utility values for PBMs
+* To merge data from the 10 extracts provided by the UKMSR (a separate extract was provided for each measure and for demographics) into a single dataset
+* To ensure that the dataset for analysis included all register members who provided data at two consecutive time-points (Time-points 1 and 2, and/or Time-points 2 and 3)
+* To generate descriptive statistics for included participants.
+
+<br>
+
+## 📜 Data description
+
+Whilst the data used in this analysis cannot be provided in this repository, we do offer a description of it below.
+
+After the pre-processing above, we have two `.dta` files, which we use in the analysis below (with do-file 13 starting by merging these files).
+
+**Filename:** *“HUMS Workstream 2 Phase 3\WS2_data_ALL_PHASE_3_DATA.dta”*
+
+Person level data; one row per person.
+
+Columns:
+
+* Item-level responses and total scale/subscale scores for each PROM at Time-point 3.
+* Item-level responses and utility values for each PBM at Time-point 3.
+* Item-level responses to each IEQ question at Time-point 3.
+
+**Filename:** *“HUMS Workstream 2 Phase 2\PHASE 1 AND 2 DATA.dta”*
+
+Person level data; one row per person.
+
+Columns:
+
+* Item-level responses and total scale/subscale scores for each PROM at Time-point 1.
+* Item-level responses and utility values for each PBM at Time-point 1.
+* Item-level responses to each IEQ question at Time-point 1.
+* Item-level responses and total scale/subscale scores for each PROM at Time-point 2.
+* Item-level responses and utility values for each PBM at Time-point 2.
+* Item-level responses to each IEQ question at Time-point 2.
+
+<br>
+
+## 🔍 Analysis
 
 The analysis is described in detail in the publication. However, as a brief recap, the analysis in the do-files in this repository includes:
 
@@ -56,35 +93,39 @@ The analysis is described in detail in the publication. However, as a brief reca
   * Describe responses to IEQ (e.g. number and percentage providing each answer)
   * Describe demographics of IEQ samples
 
+<br>
+
 ## 🏛️ Archived repository
 
-To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: <mark>TODO: Add link once archived</mark>
+To ensure persistence, this repository has been archived on Zenodo. It can be viewed at: TBC.
+
+<br>
 
 ## 📝 Citation
 
 To cite this repository:
 
-<!--TODO: Update with each new version-->
-> Goodwin, E., Heather, A., Green, C., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2024). HUMS Responsiveness (Version v0.1.0) [Computer software]. https://github.com/amyheather/hums_responsiveness
+> Goodwin, E., Heather, A., Morrish, N., Freeman, J., Boddy, K., Thomas, S., Chataway, J., Middleton, R., & Hawton, A. (2024). HUMS Responsiveness (Version v1.0.0) [Computer software]. https://github.com/amyheather/hums_responsiveness
 
-The author ORCID IDs for this publication (where available) are:
+The author ORCID IDs for this publication are:
 
-<mark>TODO: Add any missing details to CITATION.cff and ORCID list. Need to ask Jenny, Sarah, and Jeremy if they have an ORCID.</mark>.
+* [![ORCID: Goodwin](https://img.shields.io/badge/Elizabeth_Goodwin-0000--0003--1351--9170-brightgreen)](https://orcid.org/0000-0003-1351-9170)
+* [![ORCID: Heather](https://img.shields.io/badge/Amy_Heather-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)
+* [![ORCID: Morrish](https://img.shields.io/badge/Nia_Morrish-0000--0002--7206--4957-brightgreen)](https://orcid.org/0000-0002-7206-4957)
+* [![ORCID: Freeman](https://img.shields.io/badge/Jennifer_Freeman-0000--0002--4072--9758-brightgreen)](https://orcid.org/0000-0002-4072-9758)
+* [![ORCID: Boddy](https://img.shields.io/badge/Kate_Boddy-0000--0001--9135--5488-brightgreen)](https://orcid.org/0000-0001-9135-5488)
+* Sarah Thomas - ORCID TBC.
+* [![ORCID: Chataway](https://img.shields.io/badge/Jeremy_Chataway-0000--0001--7286--6901-brightgreen)](https://orcid.org/0000-0001-7286-6901)
+* [![ORCID: Middleton](https://img.shields.io/badge/Rod_Middleton-0000--0002--2130--4420-brightgreen)](https://orcid.org/0000-0002-2130-4420)
+* [![ORCID: Hawton](https://img.shields.io/badge/Annie_Hawton-0000--0002--1336--5899-brightgreen)](https://orcid.org/0000-0002-1336-5899)
 
-[![ORCID: Goodwin](https://img.shields.io/badge/Elizabeth_Goodwin-0000--0003--1351--9170-brightgreen)](https://orcid.org/0000-0003-1351-9170)
-[![ORCID: Heather](https://img.shields.io/badge/Amy_Heather-0000--0002--6596--3479-brightgreen)](https://orcid.org/0000-0002-6596-3479)
-[![ORCID: Morrish](https://img.shields.io/badge/Nia_Morrish-0000--0002--7206--4957-brightgreen)](https://orcid.org/0000-0002-7206-4957)
-[![ORCID: Boddy](https://img.shields.io/badge/Kate_Boddy-0000--0001--9135--5488-brightgreen)](https://orcid.org/0000-0001-9135-5488)
-[![ORCID: Middleton](https://img.shields.io/badge/Rod_Middleton-0000--0002--2130--4420-brightgreen)](https://orcid.org/0000-0002-2130-4420)
-[![ORCID: Hawton](https://img.shields.io/badge/Annie_Hawton-0000--0002--1336--5899-brightgreen)](https://orcid.org/0000-0002-1336-5899)
+## 📜 Licence
 
-## 📜 License
+This repository is licensed under an **MIT licence**.
 
-This repository is licensed under an **MIT license**.
+<br>
 
 ## 💰 Acknowledgements
-
-<!--TODO: Confirm whether these are the correct funding and MSRegister acknowledgements statements-->
 
 This work was supported by the UK MS Society (grant number 85).
 
