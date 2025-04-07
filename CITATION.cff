@@ -15,9 +15,6 @@ authors:
   - given-names: Amy
     family-names: Heather
     orcid: 'https://orcid.org/0000-0002-6596-3479'
-  - given-names: Colin
-    family-names: Green
-    orcid: 'https://orcid.org/0000-0001-6140-1287'
   - given-names: Nia
     family-names: Morrish
     orcid: 'https://orcid.org/0000-0002-7206-4957'
@@ -29,6 +26,7 @@ authors:
     orcid: 'https://orcid.org/0000-0001-9135-5488'
   - given-names: Sarah
     family-names: Thomas
+    orcid: 'https://orcid.org/0000-0002-9501-9091'
   - given-names: Jeremy
     family-names: Chataway
     orcid: 'https://orcid.org/0000-0001-7286-6901'

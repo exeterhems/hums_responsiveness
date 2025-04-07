@@ -120,7 +120,7 @@ The author ORCID IDs for this publication are:
 * [![ORCID: Morrish](https://img.shields.io/badge/Nia_Morrish-0000--0002--7206--4957-brightgreen)](https://orcid.org/0000-0002-7206-4957)
 * [![ORCID: Freeman](https://img.shields.io/badge/Jennifer_Freeman-0000--0002--4072--9758-brightgreen)](https://orcid.org/0000-0002-4072-9758)
 * [![ORCID: Boddy](https://img.shields.io/badge/Kate_Boddy-0000--0001--9135--5488-brightgreen)](https://orcid.org/0000-0001-9135-5488)
-* Sarah Thomas - ORCID TBC.
+* [![ORCID: Thomas](https://img.shields.io/badge/Sarah_Thomas-0000--0002--9501--9091-brightgreen)](https://orcid.org/0000-0002-9501-9091)
 * [![ORCID: Chataway](https://img.shields.io/badge/Jeremy_Chataway-0000--0001--7286--6901-brightgreen)](https://orcid.org/0000-0001-7286-6901)
 * [![ORCID: Middleton](https://img.shields.io/badge/Rod_Middleton-0000--0002--2130--4420-brightgreen)](https://orcid.org/0000-0002-2130-4420)
 * [![ORCID: Hawton](https://img.shields.io/badge/Annie_Hawton-0000--0002--1336--5899-brightgreen)](https://orcid.org/0000-0002-1336-5899)
