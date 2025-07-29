@@ -16,7 +16,7 @@
 
 This repository contains Stata do-files from the analysis performed for:
 
-> **Comparative responsiveness of preference-based health-related quality of life, social care and wellbeing, condition-specific and generic measures in the context of multiple sclerosis**
+> **Comparative responsiveness of preference-based health-related quality of life, social care and wellbeing measures in the context of multiple sclerosis**
 > 
 > Elizabeth Goodwin, Amy Heather, Nia Morrish, Jenny Freeman, Kate Boddy, Sarah Thomas, Jeremy Chataway, Rod Middleton, Annie Hawton
 
